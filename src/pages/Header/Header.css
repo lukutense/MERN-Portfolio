@@ -1,0 +1,67 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-between;  
+    align-items: center;
+    background: rgb(139,78,240);
+    background: linear-gradient(90deg, #8b4ef0 0%, #31a7f7 100%);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    z-index: 1;
+}
+
+#miCv {
+    padding: 0;
+    letter-spacing: 0.1rem;
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+}
+
+header nav a {
+    padding: 0.3rem;
+    color: rgb(255, 255, 255);
+}
+
+nav{
+    align-self: center;
+}
+
+a:link, :visited, :hover, :active {
+    text-decoration: none;
+}
+
+#descargar {
+    display: flex;
+    background-color: rgb(237, 53, 173);
+    border-style: none;
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem;
+    border-radius: 1rem;
+    color: rgb(255, 255, 255);
+    transition: background-color 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+#descargarpdf{
+    font-size: 0.7rem;
+    color: white;
+    align-self: center;
+}
+
+#descargar:hover{
+    background-color: rgb(154, 46, 116);
+}
+
+@media (max-width: 563px){
+    nav{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}

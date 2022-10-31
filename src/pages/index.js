@@ -1,0 +1,7 @@
+export {Education} from './Education'
+export {Footer} from './Footer'
+export {Form} from './Form'
+export {Header} from './Header'
+export {Intro} from './Intro'
+export {Jobs} from './Jobs'
+export {Skills} from './Skills'

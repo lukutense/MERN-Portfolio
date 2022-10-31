@@ -1,0 +1,54 @@
+#habilidades  {
+    display: flex;
+    /* flex-wrap: nowrap; */
+    justify-content: center;
+    scroll-behavior: smooth;
+}
+
+#habilidades {
+    margin-top: 3rem;
+}
+
+aside p {
+    font-size: 0.8rem;
+}
+
+.datos {
+    margin: 1.2rem 2.5rem 0.5rem 0.5rem;
+    display: flex;
+}
+
+.datos p {
+    padding-left: 0.5rem;
+}
+#skills, #contacto {
+    min-width: 248px;
+    margin: 1rem;
+    padding: 1rem;
+    box-shadow: 1px 1px 13px 1px rgba(163,163,163,0.75);
+    min-width: 248px;
+    box-sizing: content-box;
+}
+
+aside h5 {
+    font-size: 1rem;
+}
+
+#divHabilidades{
+    margin: 0.5rem 0 1rem 0;
+}
+
+#divHabilidades p {
+    padding-top: 0.5rem;
+    font-weight: 800;
+}
+#hobbies p {
+    margin-bottom: 4rem;
+    text-align: center;
+}
+
+@media (max-width: 660px){
+    #habilidades{
+        flex-wrap: wrap;
+    }
+}

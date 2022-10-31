@@ -1,0 +1,72 @@
+#presentacion {
+    padding: 6rem 0 6rem 0;
+    border-bottom: 1px solid rgb(201, 201, 201);
+}
+
+#presentacion p, #hireme {
+    margin: 2rem 0 0 0;
+    text-align: center;
+}
+
+#hireme {
+    border: 1px solid rgb(17,152,255);
+    background-color: transparent;
+    color: rgb(17,152,255);
+    border-radius: 2rem;
+    padding: 0.5rem;
+    transition: all 0.3s ease-in-out;
+}
+
+#hireme:hover {
+    background-color: #1198ff;
+    color: white;
+}
+
+#contact{
+    color: #1198ff;
+}
+
+#contact:hover{
+    color: white;
+}
+
+section {
+    width: 50%;
+    margin: 0 auto 0;
+}
+
+h2 {
+    padding: 3rem;
+}
+
+.gris {
+    color: rgb(94, 94, 94);
+}
+
+.boton2 {
+    background-color: #23c898;
+    margin-top: 1em;
+    align-self: flex-start;
+    border-radius: 0.8em;
+    font-size: 0.7em;
+    border-style: none;
+    cursor: default;
+    color: white;
+}
+
+#presentacion  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    scroll-behavior: smooth;
+}
+
+h2 {
+    margin-top: 0.7rem;
+}
+
+section #rostro {
+    width: 10rem;
+    border-radius: 50%;
+    margin: 3rem 0 1rem 0;
+}

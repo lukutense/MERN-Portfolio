@@ -1,0 +1,21 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid rgb(201, 201, 201);
+}
+
+footer a {
+    font-size: 1.5rem;
+    margin: 1.5rem 0.5rem 1.5rem 0.5rem;
+    padding: 0.5rem;
+    color:#1198ff;
+    border-radius: 50%;
+}
+
+.fa-linkedin-in {
+    padding: 0.5rem 0.6rem 0.5rem 0.6rem;
+}
+.fa-tumblr {
+    padding: 0.5rem 0.75rem 0.5rem 0.75rem;
+}
