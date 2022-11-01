@@ -1,4 +1,5 @@
-![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/1.png)
+![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/titlePortfolio.png)
+
 ***
 
 #Menú principal
@@ -35,7 +36,7 @@ Socket.io, CORS, SweetAlert.
 
 ##Capturas-portfolio
 
-![TITULO PORTFOLIO](/vite-cv-form/src/assets/1.png)
+![TITULO PORTFOLIO](1.png)
 
 ![TITULO PORTFOLIO](/vite-cv-form/src/assets/2.png)
 
