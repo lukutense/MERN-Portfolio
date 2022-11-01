@@ -36,14 +36,14 @@ Socket.io, CORS, SweetAlert.
 
 ##Capturas-portfolio
 
-![TITULO PORTFOLIO](1.png)
+![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/1.png)
 
-![TITULO PORTFOLIO](/vite-cv-form/src/assets/2.png)
+![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/2.png)
 
-![TITULO PORTFOLIO](/vite-cv-form/src/assets/3.png)
+![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/3bis.png)
 
-![TITULO PORTFOLIO](/vite-cv-form/src/assets/3bis.png)
+![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/4.png)
 
-![TITULO PORTFOLIO](/vite-cv-form/src/assets/5.png)
+![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/5.png)
 
-![TITULO PORTFOLIO](/vite-cv-form/src/assets/6.png)
+![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/6.png)
