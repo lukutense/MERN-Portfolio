@@ -1,4 +1,4 @@
-![TITULO PORTFOLIO](/vite-cv-form/src/assets/titlePortfolio.png)
+![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/1.png)
 ***
 
 #Menú principal
