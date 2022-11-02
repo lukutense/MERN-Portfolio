@@ -38,6 +38,8 @@ Socket.io, CORS, SweetAlert.
 
 ![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/1.png)
 
+<img src="https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/2.png">
+
 ![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/2.png)
 
 ![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/3bis.png)
