@@ -31,8 +31,7 @@ Desarrollo frontend de Portfolio single-page. Links de navegacion interna, inter
 
         Frontend: HTML, CSS, JavaScript, React, NodeJS, Vite, Chakra, RemixIcon. 
 
-        Backend: JavaScript, MongoDB Atlas, Express, 
-Socket.io, CORS, SweetAlert.
+        Backend: JavaScript, MongoDB Atlas, Express, Socket.io, CORS, SweetAlert.
 ***
 
 ## Capturas-portfolio

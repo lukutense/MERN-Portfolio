@@ -56,9 +56,7 @@ const Education= ()=>{
                             modalBody={certificado}
                         />
                     </div>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque quidem libero quo, 
-                        magnam labore beatae velit illo at? Quo voluptatem dicta animi exercitationem iusto
-                        itaque. Velit repellendus magni facere aut!
+                    <p>Adquirir conocimientos para la generacion de conceptos, ideas y contenidos aplicados en distintos medios de comunicación con la informar y persuadir sobre un producto o servicio.
                     </p>
                 </div>
             </section>
