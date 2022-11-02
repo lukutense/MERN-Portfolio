@@ -36,16 +36,14 @@ Socket.io, CORS, SweetAlert.
 
 ##Capturas-portfolio
 
-![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/1.png)
+<img src="https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/1.png" width=600 >
 
-<img src="https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/2.png" width=300 >
+<img src="https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/2.png" width=600 >
 
-![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/2.png)
+<img src="https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/3bis.png" width=600 >
 
-![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/3bis.png)
+<img src="https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/4.png" width=600 >
 
-![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/4.png)
+<img src="https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/5.png" width=600 >
 
-![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/5.png)
-
-![TITULO PORTFOLIO](https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/6.png)
+<img src="https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/6.png" width=600 >
