@@ -29,7 +29,7 @@ Desarrollo frontend de Portfolio single-page. Links de navegacion interna, inter
 
 ##Herramientas-utilizadas
 
-Frontend: HTML, CSS, JavaScript, React, NodeJS, Vite, Chakra, RemixIcon. 
+        Frontend: HTML, CSS, JavaScript, React, NodeJS, Vite, Chakra, RemixIcon. 
 
         Backend: JavaScript, MongoDB Atlas, Express, 
 Socket.io, CORS, SweetAlert.
