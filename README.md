@@ -2,7 +2,7 @@
 
 ***
 
-#Menú principal
+# Menú principal
 
 - [Descripción](#Descrición)
 - [Secciones](#Secciones)
@@ -12,12 +12,12 @@
 
 ***
 
-##Descripción
+## Descripción
 
 Desarrollo frontend de Portfolio single-page. Links de navegacion interna, interaccion con botones, ventanas emergentes o Modals, elementos para descarga de documentos, formulario de contacto(con su parte backend en [Repositorio](https://github.com/lukutense/MERN-Portfolio-backend)) y links de redes sociales. 
 ***
 
-##Secciones
+## Secciones
 
 - Presentación
 - Trabajos
@@ -27,7 +27,7 @@ Desarrollo frontend de Portfolio single-page. Links de navegacion interna, inter
 
 ***
 
-##Herramientas-utilizadas
+## Herramientas-utilizadas
 
         Frontend: HTML, CSS, JavaScript, React, NodeJS, Vite, Chakra, RemixIcon. 
 
@@ -35,7 +35,7 @@ Desarrollo frontend de Portfolio single-page. Links de navegacion interna, inter
 Socket.io, CORS, SweetAlert.
 ***
 
-##Capturas-portfolio
+## Capturas-portfolio
 
 <img src="https://github.com/lukutense/MERN-Portfolio-frontend/blob/main/src/assets/1.png" width=600 >
 
